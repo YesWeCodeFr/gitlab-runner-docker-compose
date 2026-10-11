@@ -13,7 +13,7 @@ Cette procédure part de l'architecture mise en place dans les vidéos précéde
 
 ## Ressources liées
 
-- YouTube — Installer un runner GitLab avec Docker Compose : lien à ajouter
+- YouTube — [Installer un runner GitLab avec Docker Compose](https://youtu.be/23ahXAc--NU)
 - GitHub — [GitLab auto-hébergé avec Docker Compose](https://github.com/YesWeCodeFr/gitlab-docker-compose-self-hosted)
 - GitHub — [NGINX avec Docker Compose et Let's Encrypt](https://github.com/YesWeCodeFr/nginx-docker-compose-multisite)
 - LinkedIn — [me suivre sur LinkedIn](https://www.linkedin.com/in/dominique-korzeczek-695033188)
